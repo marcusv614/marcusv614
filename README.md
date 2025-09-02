@@ -1,4 +1,4 @@
-Olá! Eu sou Marcus Pinheiro. 👋😀
+Saudações! 👋😀
 
 - 🔭 Aprimorando meus conhecimentos em Pyhton e Java.
 - 📫 Contato: marcus.pinheiro@super.ufam.edu.br
