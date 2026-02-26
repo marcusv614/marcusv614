@@ -1,4 +1,4 @@
-<h1 align="center">🧙‍♂️ Speak friend and enter! I'm Marcus Pinheiro</h1>
+<h1 align="center">🧙‍♂️ Speak friend and enter!</h1>
 
 ###
 
@@ -49,7 +49,7 @@
 
 ###
 
-<h4 align="left">🎓Software Engineering Student🎓<br>UFAM (Universidade Federal do Amazonas)<br><br>- 🛡️ Class: Backend Developer | Java & Spring Boot in Training<br>- 📍 Origin: Manaus, AM - Brazil<br>- 📜 Quest: Master the art of scalable systems and clean code.<br>- 🛠️ Current Gear: Java & Spring Boot (The Heavy Armor), React, MySQL & PostgreSQL.<br><br> ⚒️ Technical Skill Tree<br>Backend: Java, Spring Boot, PostgreSQL, MySQL<br>Frontend: React, HTML5, CSS3<br>Tools: Git, GitHub, Linux (Terminal Wizard)</h4>
+<h4 align="center">- ⚔️ Character Sheet: Marcus Pinheiro<br><br>- 🛡️ Class: Software Engineer Student<br>- 📍 Origin: Manaus, AM - Brazil<br>- 📜 Quest: Master the art of scalable systems and clean code.<br>- 🛠️ Current Gear: Java & Spring Boot (The Heavy Armor), React, MySQL & PostgreSQL.<br><br> ⚒️ Technical Skill Tree<br>Backend: Java, Spring Boot, PostgreSQL, MySQL<br>Frontend: React, HTML5, CSS3<br>Tools: Git, GitHub, Docker, Linux (Terminal Wizard)</h4>
 
 ###
 
